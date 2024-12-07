@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "messages": [
+      {
+        "subject": "Hello",
+        "text": "First message",
+        "date": "2024-11-14 00:02:57"
+      },
+      {
+        "subject": "Test",
+        "text": "Second message",
+        "date": "2024-11-14 00:02:57"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "messages": [
+      {
+        "subject": "Welcome",
+        "text": "Hello there",
+        "date": "2024-11-14 00:02:57"
+      }
+    ]
+  }
+]
